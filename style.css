@@ -1,0 +1,187 @@
+body {
+  color: black ; 
+  font-family: Arial Hebrew;
+  font-size: 23px;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  background-color:  #A8D3DA; 
+  text-align: justify;
+  font-weight: lighter;
+  line-height: 20px ; 
+  letter-spacing:1px;
+  margin: 10px 10px 10px 10px; 
+  padding: 10px 10px 10px 10px;
+}
+h1 {
+  color: black;
+  font-size: 80px;
+  font-family: Arial Hebrew;
+  text-align: center;
+}
+h2, h3, h4, h5 {
+  font-family: "Arial Hebrew";
+  text-align: left;
+  font-size: 30px;
+  line-height: 20px ; 
+  margin-top: 5px;
+}
+h2 {
+  color: black;
+}
+h3 { 
+  color: black;
+}
+h4 {
+  color: black;
+}
+h5 {
+  color: black;
+}
+h6 {
+  color: black;
+  font-size: 30px;
+  font-family: Arial Hebrew;
+  text-align: left;
+}
+
+h7 {
+  color: white;
+  font-size: 50px;
+  font-family: Arial Hebrew;
+  text-align: left;
+  vertical-align: middle;
+}
+
+a {
+  color: black;
+  font-size: 30px;
+  line-height: 20px ; 
+}
+#Profil, #Art, #Sport, #Travel, #Lycée{
+  height: 160px;
+  width: 160px;
+  line-height: 160px;
+  border-radius: 90px;
+  box-shadow: 0 10px 30px black;
+  vertical-align: middle;
+  text-align: center;
+  display: inline-block;
+  margin: 15px
+}
+
+#Profil {
+  width: 160px;
+  height: 160px;
+
+  left: 50%;
+  top: 50%;
+  margin-left: 30px;
+  margin-top: 30px;
+
+  background: #F6EEDF;
+  color: white;
+  padding: 5px;
+}
+
+#Lycée {
+  width: 140px;
+  height: 140px;
+
+  left: 50%;
+  top: 50%;
+  margin-left: 30px;
+  margin-top: 24px;
+
+  background: #F6EEDF;
+  color: white;
+  padding: 5px;
+}
+
+#Sport {
+  width: 160px;
+  height: 160px;
+
+  left: 50%;
+  top:50%;
+  margin-left: 30px;
+  margin-top: 57px;
+
+  background: #F6EEDF;
+  color: white;
+  padding: 5px;
+
+}
+
+#Travel {
+  width: 160px;
+  height: 160px;
+
+  left: 50%;
+  top:50%;
+  margin-left: 30px;
+  margin-top: 25px;
+
+  background: #F6EEDF;
+  color: white;
+  padding: 5px;
+}
+
+#Art {  
+  width: 150px;
+  height: 150px;
+
+  left: 50%;
+  top:50%;
+  margin-left: 30px;
+  margin-top: 7px;
+
+  background: #F6EEDF;
+  color: white;
+  padding: 5px;
+}
+
+p {
+  margin-right: 20px;
+}
+
+ul {
+  list-style-type: none;
+  height: 90px;
+  margin: 10px;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: inline-block;
+  margin-top: 27px;
+  margin-left: 24px;
+  width: 25px;
+  height: 30px;
+  color: white;
+  text-align:right;
+  padding: 15px;
+}
+
+
+.card {
+  background-color:#F6EEDF;
+  padding:30px;
+  box-shadow: 2px 5px 8px rgba(0,0,0,1);
+  border-radius: 5px;
+  margin: 20px 0px;
+}
+
+.end {
+  background-color: black;
+  padding:30px;
+  box-shadow: 2px 5px 8px rgba(0,0,0,1);
+  border-radius: 5px;
+  width:150px;
+  margin: 10px 0px;
+  margin-left: 1000px;
+}
